@@ -1,2 +1,2 @@
 # madlibs
-choose words have fun
+choose word
